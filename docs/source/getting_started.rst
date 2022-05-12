@@ -80,6 +80,6 @@ from beginners to experts.
 Learn more
 ==========
 
-You can now start using ReservoirPy ! Learn more about the software and its capabilities in the :ref:`user_guide`.
+You can now start using ReservoirPy! Learn more about the software and its capabilities in the :ref:`user_guide`.
 You can also find tutorials and examples in the `GitHub repository
 <https://github.com/reservoirpy/reservoirpy/tree/master/tutorials>`_.
