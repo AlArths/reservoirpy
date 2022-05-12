@@ -45,7 +45,7 @@ This library works for **Python 3.8** and higher.
 
 [Follow @reservoirpy](https://twitter.com/reservoirpy) updates and new releases on Twitter.
 
-## Offcial documentation 📖
+## Official documentation 📖
 
 See [the official ReservoirPy's documentation](https://reservoirpy.readthedocs.io/en/latest/?badge=latest)
 to learn more about the main features of ReservoirPy, its API and the installation process. Or you can access directly the [User Guide with tutorials](https://reservoirpy.readthedocs.io/en/latest/user_guide/index.html#user-guide).
@@ -167,7 +167,7 @@ from reservoirpy.observables import rmse, rsquare
 print("RMSE:", rmse(X[502:], predictions), "R^2 score:", rsquare(X[502:], predictions))
 ```
 
-Run and analyse this simple file (in the "tutorials/Simple Examples with Mackey-Glass" folder) to see a complete example of timeseries prediction with ESNs:
+Run and analyze this simple file (in the "tutorials/Simple Examples with Mackey-Glass" folder) to see a complete example of timeseries prediction with ESNs:
 - simple_example_MackeyGlass.py (using the ESN class)
 
     ```bash
@@ -204,7 +204,7 @@ If you want your paper to appear here, please contact us (see contact link below
 - Which Hype for My New Task? Hints and Random Search for Echo State Networks Hyperparameters. ICANN 2021 [HTML](https://link.springer.com/chapter/10.1007/978-3-030-86383-8_7) [HAL](https://hal.inria.fr/hal-03203318) [PDF](https://hal.inria.fr/hal-03203318)
 
 ## Contact
-If you have a question regarding the library, please open an Issue. If you have more general question or feedback you can [contact us on twitter](https://twitter.com/reservoirpy) or by email to nathan dot trouvain at inria dot fr and to xavier dot hinaut at inria dot fr.
+If you have a question regarding the library, please open an Issue. If you have a more general question or feedback you can [contact us on twitter](https://twitter.com/reservoirpy) or by email to nathan dot trouvain at inria dot fr and to xavier dot hinaut at inria dot fr.
 
 ## Citing ReservoirPy
 
